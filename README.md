@@ -1,2 +1,3 @@
 # EFCoreBasedRestfulAPIDemo
-Simple Demo Project using EFCore, .NetCore
+
+Simple Restful API Project using SQLLite, EFCore & .NetCore for Demo
